@@ -6,7 +6,7 @@ You can play the game at: https://githubschool.github.io/github-games/
 
 ### Instructions for playing the game
 welcome to github
-1. Press the space bar to start.
+1. Press the space bar to begin.
 2. Use the up and down arrow keys to rotate the shape.
 3. Use the left and right arrow keys to position the shape.
 4. The goal is to create complete rows with no empty spaces.
@@ -14,5 +14,5 @@ welcome to github
 6. To pause the game, just press the space bar again.
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
-
+hiii
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
